@@ -6,6 +6,9 @@
     "unified-signatures": false,
     "no-unused-variable": [
       false
-    ]
+    ],
+    "no-parameter-properties": false,
+    "no-bitwise": false,
+    "no-param-reassign": false
   }
 }
