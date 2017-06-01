@@ -12,11 +12,11 @@ export const test: Test =
 
         const { value, nextGenerator } = next(seed)
 
-        eq('e0c80075-2031-4b86-9a31-786200440000', value)
+        eq('e0c80075-2031-4b86-9939-3872004c0000', value)
 
         const { value: nextValue } = next(nextGenerator)
 
-        eq('0041e09c-e177-40ae-84e1-f9c200ee0000', nextValue)
+        eq('0049a0ac-e10f-44a1-a001-f80200150000', nextValue)
       }),
     ),
   )
