@@ -2,7 +2,7 @@
   "name": "pure-uuid-generator",
   "description": "A small functional pure UUID generator",
   "repository": "https://github.com/TylorS/pure-uuid-generator",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "typings": "lib/index.d.ts",
