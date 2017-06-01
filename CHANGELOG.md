@@ -1,29 +1,16 @@
-<a name="0.2.0"></a>
-# [0.2.0](https://github.com/TylorS/167/compare/v0.1.0...v0.2.0) (2017-03-31)
-
-
-### Features
-
-* **curry:** export curry functions ([a332be4](https://github.com/TylorS/167/commit/a332be4))
-
-
-
-<a name="0.1.0"></a>
-# [0.1.0](https://github.com/TylorS/167/compare/66fbc10...v0.1.0) (2017-03-31)
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/TylorS/pure-uuid-generator/compare/89582cf...v1.0.0) (2017-06-01)
 
 
 ### Bug Fixes
 
-* **zipWith:** exports from index.ts ([43aefbd](https://github.com/TylorS/167/commit/43aefbd))
+* **createWithSeed:** fix upper limits ([f12dedb](https://github.com/TylorS/pure-uuid-generator/commit/f12dedb))
+* **next:** update to new algorithm ([c40e439](https://github.com/TylorS/pure-uuid-generator/commit/c40e439))
 
 
 ### Features
 
-* **77:** initial upload ([66fbc10](https://github.com/TylorS/167/commit/66fbc10))
-* **function:** begin implementing function functions :smile: ([b2ccc1d](https://github.com/TylorS/167/commit/b2ccc1d))
-* **list:** complete list functions ([40f5618](https://github.com/TylorS/167/commit/40f5618))
-* **list:** implement uniqBy ([77b5b49](https://github.com/TylorS/167/commit/77b5b49))
-* **list:** implement uniqWith ([3d3fc6c](https://github.com/TylorS/167/commit/3d3fc6c))
+* **src:** implement pure UUID generator ([89582cf](https://github.com/TylorS/pure-uuid-generator/commit/89582cf))
 
 
 
