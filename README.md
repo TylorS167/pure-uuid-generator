@@ -1,5 +1,7 @@
 # Pure UUID Generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/TylorS167/pure-uuid-generator.svg)](https://greenkeeper.io/)
+
 ## Get it
 
 ```sh
